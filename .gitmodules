@@ -1,29 +1,26 @@
 [submodule "libraries/chainbase"]
-	path = libraries/chainbase
+	path = b1os/libraries/chainbase
 	url = https://github.com/eosio/chainbase
         ignore = dirty
 [submodule "libraries/appbase"]
-	path = libraries/appbase
+	path = b1os/libraries/appbase
 	url = https://github.com/eosio/appbase
         ignore = dirty
 [submodule "libraries/softfloat"]
-	path = libraries/softfloat
+	path = b1os/libraries/softfloat
 	url = https://github.com/eosio/berkeley-softfloat-3
 [submodule "libraries/fc"]
-	path = libraries/fc
+	path = b1os/libraries/fc
 	url = https://github.com/EOSIO/fc
 [submodule "libraries/yubihsm"]
-	path = libraries/yubihsm
+	path = b1os/libraries/yubihsm
 	url = https://github.com/Yubico/yubihsm-shell
 [submodule "libraries/eos-vm"]
-	path = libraries/eos-vm
+	path = b1os/libraries/eos-vm
 	url = https://github.com/eosio/eos-vm
 [submodule "eosio-wasm-spec-tests"]
-	path = eosio-wasm-spec-tests
+	path = b1os/eosio-wasm-spec-tests
 	url = https://github.com/EOSIO/eosio-wasm-spec-tests
-[submodule "libraries/abieos"]
-	path = libraries/abieos
-	url = https://github.com/EOSIO/abieos.git
 [submodule "libraries/rocksdb"]
-	path = libraries/rocksdb
+	path = b1os/libraries/rocksdb
 	url = https://github.com/facebook/rocksdb.git
